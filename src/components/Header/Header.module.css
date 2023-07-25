@@ -9,7 +9,7 @@
 .carrito{
   float: right;
   margin: 0px 40px 0px;
-  background: linear-gradient(#39BBDC, #FF3192);  font-size: 25px;
+  background: linear-gradient(#39BBDC, #FF3192);  font-size: 19px;
   border: none;
   color: white;
 }
